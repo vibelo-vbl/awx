@@ -7,4 +7,4 @@ config_context: False
 group_by:
  - device_roles
 query_filters:
-- device_roles: "fw-asa" 
+- device_roles: fw-asa 
