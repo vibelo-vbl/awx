@@ -1,0 +1,8 @@
+---
+plugin: netbox
+api_endpoint: http://172.20.50.77:8080
+token: 6553697d1ff32c8d9167614446bfbfcee941e01f
+validate_certs: False
+config_context: False
+group_by:
+ - device_roles
