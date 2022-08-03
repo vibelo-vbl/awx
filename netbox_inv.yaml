@@ -1,10 +1,10 @@
 ---
 plugin: netbox
-api_endpoint: http://172.20.50.77:8080
-token: 6553697d1ff32c8d9167614446bfbfcee941e01f
+api_endpoint: http://10.102.1.13:8080
+token: dd39d148c7dc6b0e2061608ab31b2050a3797788
 validate_certs: False
 config_context: False
 group_by:
  - device_roles
 query_filters:
- - role_id: 1
+ - role_id: 3
